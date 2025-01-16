@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<searchRetrieveResponse xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<dc:title>Gráficas de Emisiones de NOx, Vehículo-kilometros y Vehículos Eléctricos (2014-2022)</dc:title>
+
+<dc:subject>NOx emissions</dc:subject>
+<dc:subject>NOx level</dc:subject>
+<dc:subject>Vehicle kilometers</dc:subject>
+<dc:subject>Air pollution</dc:subject>
+<dc:subject>Electric vehicles</dc:subject>
+
+<dc:creator>Team Black</dc:creator>
+
+<dc:description>Conjunto gráficas de análisis sobre la relación entre las emisiones y concentraciones de NOx, el vehículo-kilómetro y el porcentaje de vehículos eléctricos vendidos en cuatro países europeos (Francia, España, Suiza y Países Bajos) durante el período 2014-2022.</dc:description>
+
+<dc:coverage>Francia, España, Suiza, Países Bajos; 2014-2022</dc:coverage>
+
+<dc:date>02/01/2025</dc:date>
+
+<dc:format>Graphics</dc:format>
+
+<dc:identifier>https://github.com/bbboyb/DLC-team-project.git</dc:identifier>
+
+<dc:language>English, Spanish</dc:language>
+
+<dc:publisher>Miembros de Team Black</dc:publisher>
+
+<dc:relation />
+
+<dc:rights>Acceso público</dc:rights>
+
+<dc:source>Dataset original 1 (dataset NOx), URL=https://www.eea.europa.eu/en/topics/in-depth/air-pollution/air-pollution-country-fact-sheets-2024</dc:source>
+<dc:source>Dataset original 2 (dataset Vehículo-kilometro), DOI:10.2908/road_tf_vehmov </dc:source>
+<dc:source>Dataset original 3 (dataset Vehículos eléctricos), URL=https://ourworldindata.org/grapher/battery-plugin-hybrid-vehicles?tab=table</dc:source>
+
+<dc:contributor>European environment agency</dc:contributor>
+<dc:contributor>Eurostat</dc:contributor>
+<dc:contributor>International Council on Clean Transport (ICCT) and European Environment Agency</dc:contributor>
+
+<dc:type>Graphics</dc:type>
+</searchRetrieveResponse>
