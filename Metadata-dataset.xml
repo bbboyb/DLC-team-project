@@ -11,7 +11,7 @@
 
 <dc:creator>Team Black</dc:creator>
 
-<dc:description>Conjunto de datos que recopila información sobre las emisiones y concentraciones de NOx, el vehículo-kilómetro y el porcentaje de vehículos eléctricos vendidos en cuatro países europeos (Francia, España, Suiza y Países Bajos) durante el período 2014-2022.</dc:description>
+<dc:description>Conjunto de datos que recopila información sobre las emisiones(columna 3, unit:Gg) y concentraciones de NOx(columna 7, unit:micro gramo/m^3), el vehículo-kilómetro (columna 5, unit:MIO-KVM) y el porcentaje de vehículos eléctricos vendidos(columna 6, unit:None) en cuatro países europeos (Francia, España, Suiza y Países Bajos) durante el período 2014-2022.</dc:description>
 
 <dc:coverage>Francia, España, Suiza, Países Bajos; 2014-2022</dc:coverage>
 
